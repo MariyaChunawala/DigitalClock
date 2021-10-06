@@ -1,0 +1,16 @@
+body{
+    font-family: 'Merriweather', serif;  
+    background-color: black;
+    color: #fff;
+    text-align: center;
+}
+.QCText{
+    max-width: 500px;
+    margin: auto;
+    margin-top: 200px;
+    padding-right: 1rem;
+    padding-left: 0.5rem;
+}
+#DisplayTime{
+    font-size: 80px;
+}
